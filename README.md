@@ -1,0 +1,8 @@
+# Hotel-Booking-Prediction
+Hotel Booking Prediction (Forecasting &amp; Predictive analytics Project)
+In this project we have been working on freshen up the tourism in Egypt by working on Data Set - provided later on Chapter 2 – to guide either the Government or the Investors to which type of hotels – City Hotels or Resort Hotels – they need to pump their cash flow into, as here in Egypt we have many attractive sites to be visited, not only the wonderful beaches and sea landmarks, but we also have many tourist attractions sites in the city, every city in Egypt has at least one or two incredible sites which must be visited.
+
+In our project we considered too many attributes that may affect our decision, the decision mainly will be use the time factor as a guide, if we filtered the data in details we will find out that in specific months most of hotels booking going to one type of hotels, this condition they called in business season, as we all know a city like Alexandria which fall under the resort hotels type most of people or let me be specific by saying most of tourists go there in specific months like June, July and August. We have another example to a city like Luxor, In Luxor most the tourists come in months like December, January, and February. 
+
+We will discuss in details in the upcoming chapter the data set, attributes, and the targeted variables, then we will move into the technical work which means the algorithm implementation, finally we will have a small comparison between algorithms and each other, in this comparison we will consider many factors to determine a rank for each algorithm. This comparison also we will use to get a conclusion for the whole project.
+
